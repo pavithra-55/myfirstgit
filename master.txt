@@ -1,4 +1,7 @@
 My First Git test!!!!!!!!!
 
 
-I dont know how to move file on server
+git init
+git status
+git commit -m "committing a text file"
+git add .
