@@ -1,7 +1,0 @@
-My First Git test!!!!!!!!!
-
-
-git init
-git status
-git commit -m "committing a text file"
-git add .
